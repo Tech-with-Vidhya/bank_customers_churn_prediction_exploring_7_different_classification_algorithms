@@ -13,8 +13,6 @@
 > <h3>6. Optimized Model Selection based on Various Performance Metrics</h3>
 > <h3>7. Deploying the Best Optimized Model into Unseen Test Data</h3> 
 > <h3>8. Evaluating the Optimized Model’s Performance Metrics</h3> 
-    
-<br>
 
 <h3>The business case of determining the churn status of bank customers are explored, trained and validated on 7 different classification algorithms/models as listed below and the best optimized model is selected based on the various performance metrics namely accuracy, precision, recall and f1-score.</h3>
 
@@ -25,20 +23,14 @@
 > <h3>5. Ensemble Hist Gradient Boosting Classifier Algorithm</h3> 
 > <h3>6. Ensemble Extreme Gradient Boosting (XGBoost) Classifier Algorithm</h3> 
 > <h3>7. Support Vector Machine (SVM) Classifier Algorithm</h3>
-    
-<br>
 
 <h3><b><u>Performance Metrics and Results of all the Optimized Classifier Models:</u></b></h3>
     
 ![](output/8_all_optimised_models_performance_metrics/All_Optimized_Models_Comparison_Metrics.jpg)
-    
-<br>
 
 <h3><b><u>Accuracy Metrics of all the Optimized Classifier Models:</u></b></h3>
     
 ![](output/8_all_optimised_models_performance_metrics/All_Optimized_Models_Accuracy_Metrics.jpg)
-    
-<br>
     
 <h3><b><u>Selection and Decision on Final Optimized Classifier Model for Deployment:</u></b></h3>
 <h3>As we can see from the above results; models named "Ensemble Random Forest Classifier Model" and "Ensemble Extreme Gradient Boosting (XGBoost) Classifier Model" have performed comparatively better during the validation stage.</h3> 
