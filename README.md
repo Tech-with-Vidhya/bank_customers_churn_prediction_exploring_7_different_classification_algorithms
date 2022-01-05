@@ -37,7 +37,7 @@
 <h3>However; by considering the "Churn" Class Precision Score which is one of the key performance metric in this business case, it is evident that the "Ensemble Extreme Gradient Boosting (XGBoost) Classifier Model" performed significantly much better when compared with that of the "Ensemble Random Forest Classifier Model".</h3>
 <h3>Hence we can decide and consider "Ensemble Extreme Gradient Boosting (XGBoost) Classifier Model" as the final model to be deployed into the unseen test data.</h3> <br>
     
-<h3><b><u>Performance Results on the Unseen Test Data::</u></b></h3>
+<h3><b><u>Performance Results on the Unseen Test Data:</u></b></h3>
     
 ![](output/9_final_model_output_unseen_test_predictions/confusion_matrix_unseen_test_data_xgboost_classifier_final_model.jpg)
     
