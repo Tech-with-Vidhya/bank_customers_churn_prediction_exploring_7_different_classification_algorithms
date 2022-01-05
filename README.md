@@ -14,7 +14,7 @@
 > <h3>7. Deploying the Best Optimized Model into Unseen Test Data</h3> 
 > <h3>8. Evaluating the Optimized Model’s Performance Metrics</h3> 
 
-<h3>The business case of determining the churn status of bank customers are explored, trained and validated on 7 different classification algorithms/models as listed below and the best optimized model is selected based on the various performance metrics namely accuracy, precision, recall and f1-score.</h3>
+<h3>The business case and the problem statement to determine the churn status of the bank customers are explored, trained and validated on 7 different classification algorithms/models as listed below and the best finalized optimized model is selected based on the various performance metrics namely accuracy, precision, recall and f1-score.</h3>
 
 > <h3>1. Decision Tree Classifier - CART (Classification and Regression Tree) Algorithm</h3> 
 > <h3>2. Decision Tree Classifier - IDE (Iterative Dichotomiser) Algorithm</h3>
