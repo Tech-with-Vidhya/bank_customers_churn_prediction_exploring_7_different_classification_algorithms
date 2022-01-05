@@ -33,17 +33,12 @@
 ![](output/8_all_optimised_models_performance_metrics/All_Optimized_Models_Comparison_Metrics.jpg)
     
 <br>
-<br>
-<br>
 
 <h3><b><u>Accuracy Metrics of all the Optimized Classifier Models:</u></b></h3>
     
 ![](output/8_all_optimised_models_performance_metrics/All_Optimized_Models_Accuracy_Metrics.jpg)
     
 <br>
-<br>
-<br>
-    
     
 <h3><b><u>Selection and Decision on Final Optimized Classifier Model for Deployment:</u></b></h3>
 <h3>As we can see from the above results; models named "Ensemble Random Forest Classifier Model" and "Ensemble Extreme Gradient Boosting (XGBoost) Classifier Model" have performed comparatively better during the validation stage.</h3> 
@@ -60,7 +55,7 @@
 
 <br>
     
-<h3>As we can see from the above test performance results; Extreme Gradient Boosting (XGBoost) Model has performed with an overall accuracy of about 90% on the unseen test data.
+<h3>As we can see from the above test performance results; Extreme Gradient Boosting (XGBoost) Model has performed with an overall accuracy of about <b>90%</b> on the unseen test data.
     
 <br>
 <br>
